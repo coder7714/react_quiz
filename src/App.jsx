@@ -107,7 +107,7 @@ function App() {
       );
     };
   
-    // Function to render quiz result
+  
     const renderResult = () => {
       return (
         <div className="result">
